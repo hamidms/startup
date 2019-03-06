@@ -4,7 +4,9 @@
 ## Startup
 
 <b> This template is a ported version. All credit goes to [Materialize](https://materializecss.com/)</b>.<br>
-Based on <b>Materialize Startup Template v1.0.5</b><br>
+Based on <b>Materialize Startup Template v1.0.5</b>
+
+Demo template: https://ezralazuardy.tk/startup/
 
 ### Template preview:
 ![preview](https://static.tinylab.tk/startup/preview1.png)
